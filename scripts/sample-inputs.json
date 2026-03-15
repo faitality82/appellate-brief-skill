@@ -1,0 +1,83 @@
+{
+  "state": "Michigan",
+  "court": "Michigan Court of Appeals",
+  "case_name": "S Zeien",
+  "court_of_appeals_no": "370513",
+  "lower_court_no": "22-36601-NA",
+  "appellant_role": "Respondent Father",
+  "oral_argument": true,
+  "attorney": {
+    "name": "BRANDON R. McNAMEE",
+    "bar_number": "P71905",
+    "address_line1": "3024 Commerce Dr",
+    "address_line2": "Fort Gratiot, MI  48059",
+    "phone": "(810) 982-2020"
+  },
+  "questions": [
+    {
+      "question": "DID THE FAILURE TO CONDUCT A PROPER PRETRIAL FOUNDATIONAL HEARING WITH RESPECT TO THE PROPOSED TENDER-YEARS TESTIMONY AFFECT THE SUBSTANTIAL RIGHTS OF THE RESPONDENT FATHER AND DEPRIVE HIM OF HIS RIGHT TO A FAIR TRIAL WHEN THE PETITIONER OFFERED NO LEGALLY ADMISSIBLE EVIDENCE AT THE PRETRIAL HEARING AND THE COURT DID NOT VIEW THE CAC INTERVIEW?",
+      "answer": "Yes"
+    },
+    {
+      "question": "DID THE TRIAL COURT CLEARLY ERR IN CONCLUDING THAT THE STATUTORY GROUNDS FOR TERMINATION HAD BEEN ESTABLISHED BY CLEAR AND CONVINCING EVIDENCE?",
+      "answer": "Yes"
+    },
+    {
+      "question": "WAS THE TERMINATION OF THE PARENTAL RIGHTS OF RESPONDENT FATHER TO HIS MINOR CHILD IN THE BEST INTERESTS OF THE MINOR CHILD?",
+      "answer": "No"
+    }
+  ],
+  "jurisdiction_paragraphs": [
+    "The parental rights of the Appellant, Zachary Zeien, were terminated by an order dated February 21, 2024 by the Honorable Donald A. Teeple, a presiding judge of the 24th Judicial Circuit Court Family Division for the County of Sanilac. Hon. Donald A. Teeple terminated the parental rights of Zachary Zeien pursuant to the provisions of MCL 712A.19b(3)(b)(i), MCL 712A.19b(3)(g), MCL 712A.19b(3)(j), and MCL 712A.19b(3)(k)(iii). Zachary Zeien now appeals as of right the trial court's order taking jurisdiction of his minor child and the order terminating his parental rights to his minor child.",
+    "Zachary Zeien timely requested Appellate counsel on March 12, 2024. On April 9, 2024, a Claim of Appeal and Order Appointing Appellate Counsel was filed with the Michigan Court of Appeals.",
+    "This Court has jurisdiction pursuant to MCR 7.203(A)(3)."
+  ],
+  "authorities": {
+    "cases": [
+      { "citation": "In re Sours, 459 Mich 624; 593 NW2d 520 (1999)", "pages": "28, 30" },
+      { "citation": "In re Trejo, 462 Mich 341; 612 NW2d 407 (2000)", "pages": "40" }
+    ],
+    "statutes": [
+      { "citation": "MCL 712A.19b(3)(b)(i)", "pages": "37, 38" },
+      { "citation": "MCL 712A.19b(3)(g)", "pages": "38" },
+      { "citation": "MCL 712A.19b(3)(j)", "pages": "38" },
+      { "citation": "MCL 712A.19b(3)(k)(iii)", "pages": "38" }
+    ],
+    "rules": [
+      { "citation": "MCR 7.203(A)(3)", "pages": "iii" },
+      { "citation": "MRE 803A", "pages": "26, 27, 28" }
+    ]
+  },
+  "facts_paragraphs": [
+    "Zachary Zeien (hereinafter, \u201cRespondent Father\u201d) appeals the Sanilac County Circuit Court order taking jurisdiction of his minor child and the order terminating his parental rights to his minor child. Respondent Father has one child, SZ (8 years old).",
+    "The children were removed on November 14, 2022. DHHS filed seven amended Petitions that sought termination at the initial dispositional hearing. The nature of the petition required DHHS to prove the allegations with legally admissible evidence.",
+    "The primary issue in this case is the Court\u2019s decision surrounding its ruling on a tender-years motion. The tender-years motion was held on May 31, 2023. This was succeeded by seven jury trial dates, June 28, 2023, June 29, 2023, September 12, 2023, September 13, 2023, September 14, 2023, November 6, 2023 and November 7, 2023."
+  ],
+  "arguments": [
+    {
+      "heading": "THE FAILURE TO CONDUCT A PROPER PRETRIAL FOUNDATIONAL HEARING WITH RESPECT TO THE PROPOSED TENDER-YEARS TESTIMONY AFFECTED THE SUBSTANTIAL RIGHTS OF THE RESPONDENT FATHER AND DEPRIVED HIM OF HIS RIGHT TO A FAIR TRIAL WHEN THE PETITIONER OFFERED NO LEGALLY ADMISSIBLE EVIDENCE AT THE PRETRIAL HEARING AND THE COURT DID NOT VIEW THE CAC INTERVIEW",
+      "body_paragraphs": [
+        "The trial court\u2019s failure to view the CAC interview before ruling on the tender-years motion constituted an abuse of discretion that denied Respondent Father his right to a fair trial. MRE 803A requires that the court view the recorded interview prior to making an admissibility ruling.",
+        "The Petitioner offered no legally admissible evidence at the pretrial foundational hearing. The admission of the tender-years testimony without proper foundation was not harmless error, as the improper testimony formed the backbone of the Petitioner\u2019s case."
+      ]
+    },
+    {
+      "heading": "THE TRIAL COURT CLEARLY ERRED WHEN IT FOUND THAT THE STATUTORY GROUNDS EXISTED TO TERMINATE RESPONDENT FATHER\u2019S PARENTAL RIGHTS",
+      "body_paragraphs": [
+        "To terminate parental rights, the trial court must find that at least one statutory ground for termination has been established by clear and convincing evidence. In re Trejo, 462 Mich 341; 612 NW2d 407 (2000).",
+        "The trial court clearly erred in finding that the statutory grounds for termination were proven by clear and convincing evidence. The evidence presented at trial was insufficient to meet this demanding standard."
+      ]
+    },
+    {
+      "heading": "CLEAR AND CONVINCING EVIDENCE EXISTED THAT INDICATED THAT TERMINATION WAS CLEARLY NOT IN THE CHILD\u2019S BEST INTEREST",
+      "body_paragraphs": [
+        "Even where a statutory ground for termination exists, the trial court must separately find that termination is in the child\u2019s best interest before ordering termination. In re Sours, 459 Mich 624; 593 NW2d 520 (1999).",
+        "The record clearly demonstrates that termination of Respondent Father\u2019s parental rights was not in the best interest of SZ. The bond between Respondent Father and SZ was strong and meaningful."
+      ]
+    }
+  ],
+  "relief_paragraphs": [
+    "For the foregoing reasons, Respondent Father-Appellant respectfully requests that this Honorable Court reverse the trial court\u2019s order terminating his parental rights, or in the alternative, remand this matter for a new trial consistent with the rules of evidence.",
+    "Respondent Father-Appellant further requests that this Court award any other relief it deems just and equitable."
+  ]
+}
