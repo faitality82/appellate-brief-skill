@@ -50,7 +50,7 @@ The generated brief includes all required sections in the correct order with pro
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/appellate-brief-skill.git
+git clone https://github.com/faitality82/appellate-brief-skill.git
 cd appellate-brief-skill
 npm install
 ```
